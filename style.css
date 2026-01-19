@@ -1,0 +1,15 @@
+header {
+    background-color: rgb(3, 44, 3);
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+html {
+    background-color: green;
+}
+
